@@ -16,12 +16,12 @@ Hi, I'm Deepak Vishwakarma — i am Full Stack Developer and also Blockchain Dev
 
 <!-- section - social media icons -->
 
-
-<a class="social-list__link" href="https://github.com/iamdeepakvishwa" target="_blank"><i class="fab fa-github"></i></a>
-<a class="social-list__link" href="https://www.linkedin.com/in/vishopvishwa/" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a class="social-list__link" href="https://www.hackerrank.com/vishop_vishwa?hr_r=1" target="_blank"><i class="fab fa-hackerrank"></i></a>
-<a class="social-list__link" href="https://t.me/vishop_vishwa"  target="_blank"><i class="fab fa-telegram"></i></a>
-
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_github_3325136.png)](https://github.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/vishopvishwa/)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_160_Hackerrank_logo_logos_4373713.png)](https://www.hackerrank.com/vishop_vishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_social-56_1591869.png)](https://t.me/vishop_vishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://twitter.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/iamdeepakvishwa)
 
 <!-- section - social media icons -->
 
@@ -66,8 +66,12 @@ Python . JavaScript . C++ . Solidity
 
 <!-- section - interests -->
 
+
+
 <!-- section - blogs -->
-<a class="social-list__link" href="https://github.com/iamdeepakvishwa" target="_blank"><i class="fab fa-github"></i></a>
-<a class="social-list__link" href="https://www.linkedin.com/in/vishopvishwa/" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a class="social-list__link" href="https://www.hackerrank.com/vishop_vishwa?hr_r=1" target="_blank"><i class="fab fa-hackerrank"></i></a>
-<a class="social-list__link" href="https://t.me/vishop_vishwa"  target="_blank"><i class="fab fa-telegram"></i></a>
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_github_3325136.png)](https://github.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/vishopvishwa/)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_160_Hackerrank_logo_logos_4373713.png)](https://www.hackerrank.com/vishop_vishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_social-56_1591869.png)](https://t.me/vishop_vishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://twitter.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/iamdeepakvishwa)
