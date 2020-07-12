@@ -20,7 +20,7 @@ Hi, I'm Deepak Vishwakarma — i am Full Stack Developer and also Blockchain Dev
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/vishopvishwa/)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_160_Hackerrank_logo_logos_4373713.png)](https://www.hackerrank.com/vishop_vishwa)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_social-56_1591869.png)](https://t.me/vishop_vishwa)
-[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://twitter.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_twitter_313466.png)](https://twitter.com/iamdeepakvishwa)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/iamdeepakvishwa)
 
 <!-- section - social media icons -->
@@ -73,5 +73,5 @@ Python . JavaScript . C++ . Solidity
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://www.linkedin.com/in/vishopvishwa/)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_160_Hackerrank_logo_logos_4373713.png)](https://www.hackerrank.com/vishop_vishwa)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_social-56_1591869.png)](https://t.me/vishop_vishwa)
-[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_square-linkedin_317725.png)](https://twitter.com/iamdeepakvishwa)
+[![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_twitter_313466.png)](https://twitter.com/iamdeepakvishwa)
 [![](https://github.com/iamdeepakvishwa/iamdeepakvishwa/blob/master/asset/icons/iconfinder_84_Dev_logo_logos_4394314.png)](https://dev.to/iamdeepakvishwa)
