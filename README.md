@@ -4,8 +4,7 @@
 **iamdeepakvishwa/iamdeepakvishwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<!-- section - intro -->
-<!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
+
 
 # ❤ to Build - Software Engineer & Enthusiast!
 
@@ -36,6 +35,22 @@ NodeJS . ExpressJs . React.js . REST API . W3Js . PHP
 MySQLI . MongoDB . 
 
 Python . JavaScript . C++ . Solidity
+
+<a href="https://github.com/iamdeepakvishwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepakvishwa&theme=radical" />
+</a>
+<a href="https://github.com/iamdeepakvishwa">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdeepakvishwa&show_icons=true&theme=radical&line_height=33"/>
+</a>
+<a href="https://github.com/iamdeepakvishwa/urlShortner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdeepakvishwa&repo=urlShortner&theme=dark" />
+</a>
+<a href="https://github.com/iamdeepakvishwa/SangeetPedia">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamdeepakvishwa&repo=SangeetPedia&theme=dark" />
+</a>
+
+
+
 
 <!-- section - skills -->
 
